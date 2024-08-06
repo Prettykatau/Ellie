@@ -1,12 +1,12 @@
 {
-"name": "Ellie",
+"name": "Hunhu",
 "version": "2.1.2",
-"description": "Elliee has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "Hunhu has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name Ellie",
-"stop": "pm2 stop Ellie",
-"restart": "pm2 restart Ellie"
+"start": "pm2 start start.js --deep-monitoring --attach --name Hunhu",
+"stop": "pm2 stop Hunhu",
+"restart": "pm2 restart Hunhu"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys-6.6.0.git",
