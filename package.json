@@ -1,12 +1,12 @@
 {
 "name": "Hunhu",
 "version": "2.1.2",
-"description": "Hunhu has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "hunhu has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
 "start": "pm2 start start.js --deep-monitoring --attach --name Hunhu",
-"stop": "pm2 stop Hunhu",
-"restart": "pm2 restart Hunhu"
+"stop": "pm2 stop hunhu",
+"restart": "pm2 restart hunhu"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys-6.6.0.git",
